@@ -1,3 +1,3 @@
 # vencing
-Vencing project for the Imagine&amp;Make Challenge at Centrale Lille.
-Includes the rotations and translations of a Azza Fencing shoe from gyrometer and accelerometer brut data.
+Vencing project for the Imagine&Make Challenge at Centrale Lille.
+You will find all the documentation, the marketting features and the files about the project in this Repo. 
